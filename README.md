@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+I am enjoying learning about machine learning.
